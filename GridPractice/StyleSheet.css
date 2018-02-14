@@ -2,25 +2,26 @@
     display: grid;
     grid-template-columns: 500px;
     grid-template-rows: 3rem;
-    margin: 5px 0px;
+    margin: 2px 0px;
     width: 500px;
-    background-color: blue;
+    background-color: skyblue;
     color: white;
-}
+
+   }
 .contentsidebar{
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 8rem;
-    grid-gap: 5px;
-    margin: 5px 100px;
+    grid-gap: 2px;
+    margin: 2px 100px;
     width: 300px;
 }
 .twins{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 6rem;
-    grid-gap: 5px;
-    margin: 5px 100px;
+    grid-gap: 2px;
+    margin: 2px 100px;
     width: 300px;
      
 }
@@ -28,9 +29,9 @@
     display: grid;
     grid-template-columns: 500px;
     grid-template-rows: 3rem;
-    margin: 5px 0px;
+    margin: 2px 0px;
     width: 500px;
-    background-color: darkblue;
+    background-color: blue;
     color: white;
 }
 .grid-item-4{
@@ -40,7 +41,7 @@
     padding: 35px 0;
 }
 .grid-item-2{
-    background-color: green;
+    background-color: lightgreen;
     color: white;
     text-align: center;
     padding: 50px 0;
@@ -58,5 +59,11 @@
    vertical-align: middle;
    padding: 35px 0;
     
+}
+.grid-item-1{
+    padding:15px 10px;
+}
+.grid-item-6{
+    padding: 15px 10px;
 }
 
