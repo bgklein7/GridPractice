@@ -1,0 +1,205 @@
+﻿.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    margin: 1rem;
+    max-width: 1000px;
+    width: 90%
+}
+.grid-item-1 {
+    grid-column: 1 / span 12;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-2
+{
+    grid-column: 1 / span 6;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-3 {
+    grid-column: 7 / span 6;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-4 {
+    grid-column: 1 / span 4;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-5 {
+    grid-column: 5 / span 4;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-6 {
+    grid-column: 9 / span 4;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-7 {
+    grid-column: 1 / span 3;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-8 {
+    grid-column: 4 / span 3;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-9 {
+    grid-column: 7 / span 3;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-10 {
+    grid-column: 10 / span 3;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-11 {
+    grid-column: 1 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-12 {
+    grid-column: 3 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-13 {
+    grid-column: 5 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-14 {
+    grid-column: 7 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-15 {
+    grid-column: 9 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-16 {
+    grid-column: 11 / span 2;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-17 {
+    grid-column: 1 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-18 {
+    grid-column: 2 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-19 {
+    grid-column: 3 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-20 {
+    grid-column: 4 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-21 {
+    grid-column: 5 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-22 {
+    grid-column: 6 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-23 {
+    grid-column: 7 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-24 {
+    grid-column: 8 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-25 {
+    grid-column: 9 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-26 {
+    grid-column: 10 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-27 {
+    grid-column: 11 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
+
+.grid-item-28 {
+    grid-column: 12 / span 1;
+    background-color: lawngreen;
+    color: white;
+    text-align: center;
+}
